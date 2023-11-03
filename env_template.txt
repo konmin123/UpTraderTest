@@ -1,0 +1,3 @@
+SECRET_KEY=your_secret_key->str
+DEBUG=your_debug_value->bool
+ALLOWED_HOSTS=your_allowed_hosts_separated_by_a_space->str
