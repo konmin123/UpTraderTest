@@ -130,3 +130,4 @@ dmypy.json
 
 # .idea
 .idea
+/tree_menu/menu_app/migrations/
